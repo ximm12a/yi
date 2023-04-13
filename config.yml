@@ -72,9 +72,7 @@ content:
         - name: 微博 
           description: 
           url: https://weibo.com/
-        - name: 豆瓣电影
-          description: 
-          url: https://movie.douban.com/
+
 
     - name: ACG
       sites:
