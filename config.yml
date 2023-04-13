@@ -29,43 +29,125 @@ content:
   categories:
     - name: 常用推荐
       sites:
+        - name: Google
+          description: google
+          url: https://www.google.com/
         - name: inoreader
           description: rss
           url: https://www.inoreader.com/
-        - name: Behance
-          description: Adobe旗下的设计师交流平台，来自世界各地的设计师在这里分享自己的作品。
-          url: https://behance.net/
-        - name: UI中国
-          description: 图形交互与界面设计交流、作品展示、学习平台。
-          url: http://www.ui.cn/
-        - name: 站酷
-          description: 中国人气设计师互动平台
-          url: http://www.zcool.com.cn/
+        - name: chatGPT
+          description: chatGPT
+          url: https://chat.openai.com/chat
+        - name: Notion
+          description: Notion
+          url: https://www.notion.so/
+        - name: 今日热榜官网
+          description: 热榜
+          url: https://tophub.today/
         - name: Pinterest
           description: 全球美图收藏采集站
           url: https://www.pinterest.com/
         - name: 花瓣
           description: 收集灵感,保存有用的素材
           url: http://huaban.com/
-        - name: Youtube
-          description: 全球最大的学习分享平台
-          url: https://www.youtube.com/
-        - name: Google
-          description: google
-          url: https://www.google.com/
+        - name: 雪球行情
+          description: 行情
+          url: https://xueqiu.com/hq
 
-    - name: 界面灵感
+
+    - name: 娱乐
       sites:
-        - name: 咕噜素材
-          description: 质量很高的设计素材网站（推荐）
-          url: https://www.gulusucai.com/
-        - name: 设计周刊
-          description: 最新设计资讯（每天更新）
-          url: https://www.shejizhoukan.com/
-        - name: 字体仓库
-          description: 最全的免费商用字体库
-          url: https://www.ziticangku.com/
-        - name: 电鸭社区
-          description: 国内最早的远程工作社区，也是互联网工作者们的聚集地，非常适合设计开发小伙伴关注
-          url: https://eleduck.com/
-    
+        - name: YouTube
+          description: 
+          url: https://www.youtube.com/
+        - name: 哔哩哔哩 bilibili
+          description: 
+          url: https://www.bilibili.com/
+        - name: 抖音
+          description: 
+          url: https://www.douyin.com/
+        - name: Twitter
+          description: 
+          url: https://twitter.com/
+        - name: 微博 
+          description: 
+          url: https://weibo.com/
+        - name: 豆瓣电影
+          description: 
+          url: https://movie.douban.com/
+
+    - name: ACG
+      sites:
+        - name: 最新动漫之家
+          description: 
+          url: https://manhua.dmzj.com/update_1.shtml
+        - name: 最新看漫画
+          description: 
+          url: https://www.manhuagui.com/update/
+        - name: mx 动画在线
+          description: 
+          url: http://www.mxdm8.com/
+        - name: Bangumi 番组计划
+          description: 
+          url: https://bgm.tv/
+        - name: 蜜柑计划
+          description: 动画下载
+          url: https://mikanani.me/
+        - name: stage1论坛 
+          description: 
+          url: https://bbs.saraba1st.com/2b/forum.php
+        - name: 漫展时间表
+          description: 
+          url: https://www.nyato.com/manzhan/p440100
+        - name: Switch520
+          description: 动画下载
+          url: https://xxxxx525.com/
+        - name: 游戏天堂
+          description: 
+          url: https://www.zzzz688.com/
+
+
+    - name: 在线视频
+      sites:
+        - name: 看片狂人
+          description: 
+          url: https://www.kpkuang.fun/
+        - name: 阳光电影天堂
+          description: 
+          url: https://www.ygdy8.net/index.html
+        - name: 欧乐影院
+          description: 
+          url: https://www.olevod.com/
+        - name: 低端影视 - 超清在线视频站
+          description: 
+          url: https://ddys.art/
+
+
+
+    - name: 学习 工具
+      sites:
+        - name: Z-Library Project
+          description: 
+          url: https://singlelogin.me/
+        - name: DeepL翻译
+          description: 
+          url: https://www.deepl.com/translator
+        - name: Startpage
+          description: 搜索
+          url: https://www.startpage.com/
+
+
+    - name: 网盘 邮箱
+      sites:
+        - name: 百度网盘
+          description: 
+          url: https://pan.baidu.com
+        - name: 阿里云盘
+          description: 
+          url: https://www.aliyundrive.com
+        - name: Gmail
+          description: 
+          url: https://mail.google.com
+        - name: QQ邮箱
+          description: 
+          url: https://mail.qq.com/
