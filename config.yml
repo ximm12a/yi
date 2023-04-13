@@ -11,7 +11,7 @@ favicon: "https://github.com/ximm12a.png?size=40"
 url: https://ximm12a.github.io/yi/
 
 # github profile url
-github: "https://github.com/ximm12a"
+github: "https://github.com/"
 
 # footer message
 # footer: © 2023 @ximm12a
@@ -45,13 +45,13 @@ content:
           description: 热榜
           url: https://tophub.today/
         - name: Pinterest
-          description: 全球美图收藏采集站
+          description: 
           url: https://www.pinterest.com/
         - name: 花瓣
-          description: 收集灵感,保存有用的素材
+          description: 
           url: http://huaban.com/
         - name: 雪球行情
-          description: 行情
+          description: 
           url: https://xueqiu.com/hq
 
 
@@ -60,7 +60,7 @@ content:
         - name: YouTube
           description: 
           url: https://www.youtube.com/
-        - name: 哔哩哔哩 bilibili
+        - name: 哔哩哔哩
           description: 
           url: https://www.bilibili.com/
         - name: 抖音
@@ -79,7 +79,7 @@ content:
         - name: 茶杯狐
           description: 
           url: https://cupfox.app/
-        - name: 低端影视 - 超清在线视频站
+        - name: 低端影视
           description: 
           url: https://ddys.art/
 
@@ -102,9 +102,6 @@ content:
         - name: 蜜柑计划
           description: 动画下载
           url: https://mikanani.me/
-        - name: 漫展时间表
-          description: 
-          url: https://www.nyato.com/manzhan/p440100
         - name: Switch520
           description: 动画下载
           url: https://xxxxx525.com/
@@ -115,7 +112,7 @@ content:
 
 
 
-    - name: 网盘 邮箱 工具 
+    - name: 工具 
       sites:
         - name: 百度网盘
           description: 
